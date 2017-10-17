@@ -179,6 +179,7 @@ function fancyAlert(arg) {
 
 ![alt text](https://drive.google.com/file/d/0BwHdXUM5EPYCNVVXX3NPSUFGWVE/view?usp=sharing)
 
+
 **ทำ task list เพื่อแสดงสิ่งที่รู้และไม่รู้จากสัปดาห์นี้**
 
 งานวันอังคาร         
